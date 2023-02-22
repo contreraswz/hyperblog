@@ -1,7 +1,8 @@
 body{
     color: rgb(40, 5, 235);
     text-align: center;
-    font-family: "century gothic";
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1rem;
 }
 
 #container{
