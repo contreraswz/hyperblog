@@ -16,3 +16,18 @@ body{
 #container h1{
     font-size: 2rem;
 }
+
+#cabecera{
+    background-color: aqua;
+    color: blueviolet;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#tagline{
+    color: rgb(115, 187, 82);
+    font-size: 1.5rem;
+    text-transform: lowercase;
+    text-shadow: 2rem;
+}
