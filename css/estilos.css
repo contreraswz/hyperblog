@@ -37,11 +37,10 @@ body{
     text-shadow: 2rem;
 }
 
-<<<<<<< HEAD
 #post{
     background-color: beige;
     vertical-align: middle;
-=======
+}
 #footer{
     color: blue;
     background-color: blanchedalmond;
@@ -52,5 +51,4 @@ body{
     padding: 2rem;
     width: 70%;
     margin: auto;
->>>>>>> footer
 }
