@@ -32,3 +32,15 @@ body{
     text-transform: lowercase;
     text-shadow: 2rem;
 }
+
+#footer{
+    color: blue;
+    background-color: blanchedalmond;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 2rem;
+    width: 70%;
+    margin: auto;
+}
