@@ -1,5 +1,5 @@
 body{
-    color: rgb(40, 5, 235);
+    color:#1e1f24;
     text-align: center;
     font-family:'century gothic';
     font-size: 1rem;
@@ -25,10 +25,19 @@ body{
     text-transform: uppercase;
     text-align: center;
 }
+#logo{
+    width: 2rem;
+    vertical-align: middle;
+}
 
 #tagline{
     color: rgb(115, 187, 82);
     font-size: 1.5rem;
     text-transform: lowercase;
     text-shadow: 2rem;
+}
+
+#post{
+    background-color: beige;
+    vertical-align: middle;
 }
