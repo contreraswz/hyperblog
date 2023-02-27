@@ -2,6 +2,7 @@ historia de como voy aprendiendo git hub, ua ua ua
 
 este es un repentino cambio de vida
 
+cambiando la historia
 
 haciendo rebase master 1
 
